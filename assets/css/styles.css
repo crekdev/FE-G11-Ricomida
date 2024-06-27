@@ -1,0 +1,43 @@
+.carousel-indicators [data-bs-target] {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin-bottom: -2.5rem;
+}
+
+.font-lobster {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+}
+
+.font-cabin-regular {
+    font-family: "Cabin", sans-serif;
+    font-weight: 400;
+}
+
+.font-cabin-bold {
+    font-family: "Cabin", sans-serif;
+    font-weight: 700;
+}
+
+ul {
+    list-style: none;
+    margin-left: -2rem;
+}
+
+ol {
+    margin-left: -1.5rem;
+}
+
+.bg-cta {
+    width: auto;
+    height: 534px;
+}
+
+.bg-footer {
+    background-color: #373A3C;
+}
+
+.logo {
+    font-size: xx-large;
+}
